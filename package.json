@@ -1,0 +1,35 @@
+{
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "expect": "^22.0.3",
+    "express": "^4.16.2",
+    "express-fileupload": "^0.3.0",
+    "lodash": "^4.17.4",
+    "mongodb": "^3.0.1",
+    "mongoose": "^5.0.0-rc1",
+    "mysql": "^2.15.0",
+    "nodemon": "^1.14.7",
+    "validator": "^9.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  },
+  "scripts": {
+    "test": "mocha */*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohini96/mongoosedata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohini96/mongoosedata/issues"
+  },
+  "homepage": "https://github.com/mohini96/mongoosedata#readme"
+}
